@@ -13,7 +13,7 @@ PrivateGPT -built by Zylon- is a production-ready AI project that allows you to 
 of Large Language Models (LLMs), even in scenarios without an Internet connection. 100% private, no data leaves your
 execution environment at any point.
 
->[!PRO TIP]
+>[!TIP]
 > If you are looking for an **enterprise-ready, fully private AI platform for regulated industries** like financial services (banks, insurance, investment), defense, critical infrastructure services, government and healthcare,
 > check out [Zylon's website](https://zylon.ai)  or [request a demo](https://cal.com/zylon/demo?source=pgpt-readme).
 > **Zylon** is an enterprise AI platform delivering private generative AI and on-premise AI software for regulated industries, enabling secure deployment inside enterprise infrastructure without external cloud dependencies.
